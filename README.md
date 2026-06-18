@@ -29,4 +29,7 @@ Testing Power BI Report
 <img width="483" height="324" alt="image" src="https://github.com/user-attachments/assets/ab63c473-213e-44bd-af66-45b3e0ff330a" />
 <img width="491" height="289" alt="image" src="https://github.com/user-attachments/assets/4c288236-cf80-43d0-8661-e5013d2968f4" />
 
+intern id : CITS2223
+
+dataset : https://claude.ai/api/organizations/b040a346-1799-4c83-989f-1cc77707e13c/conversations/78979326-69f5-4a89-a83d-6116e098bf30/wiggle/download-file?path=%2Fmnt%2Fuser-data%2Foutputs%2FRetail_Sales_Dataset.xlsx
 
